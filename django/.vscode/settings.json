@@ -1,0 +1,4 @@
+{
+    "python.linting.enabled": true,
+    "python.envFile": "${workspaceFolder}/env_configs/prod.env"
+}

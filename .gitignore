@@ -1,0 +1,5 @@
+.DS_Store
+django/env_configs/prod.env
+django/db.sqlite3
+django/config/__pycache__
+
