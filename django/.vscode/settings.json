@@ -1,4 +1,6 @@
 {
-    "python.linting.enabled": true,
-    "python.envFile": "${workspaceFolder}/env_configs/prod.env"
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "python.envFile": "${workspaceFolder}/env_configs/dev.env",
+    "editor.formatOnSave": true,
 }

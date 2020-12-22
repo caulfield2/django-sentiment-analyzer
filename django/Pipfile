@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 nltk = "*"
+black = "*"
 
 [dev-packages]
 pylint = "*"
