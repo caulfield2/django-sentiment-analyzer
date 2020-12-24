@@ -6,7 +6,10 @@ name = "pypi"
 [packages]
 django = "*"
 nltk = "*"
+djangorestframework = "*"
 black = "*"
+markdown = "*"
+django-filter = "*"
 
 [dev-packages]
 pylint = "*"
